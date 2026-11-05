@@ -1,0 +1,25 @@
+{
+  "repository": "module-localization-mymemory-filament",
+  "capabilityKey": "liberusoftware/localization-mymemory",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/localization-mymemory-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/boilerplate/nextjs/localization-mymemory.md",
+  "presentationPlan": "projects/boilerplate/filament/localization-mymemory.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
